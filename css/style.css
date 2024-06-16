@@ -96,12 +96,12 @@ section{
 }
 
 /* banner */
+
 .banner{
-    background-image: url('/images/hero-land.jpg');
-    background-size: cover;
     background-position: top center;
     height: 400px;
 }
+
 .h1-banner{
     font-family: "Anton", sans-serif;
     font-size: 80px;
@@ -111,6 +111,7 @@ section{
     font-weight: bold;
     text-shadow: 0px 3px 15px rgb(0, 255, 0);
     -webkit-text-stroke: 2px green;
+    
 }
 
 /* danh mục */
